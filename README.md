@@ -44,7 +44,3 @@ Model3 - Predict any target using both of the data files.
 The slides.html for different model in code slides folder is created using slideshow in Jupyter notebook.
 Check Presentation in ppt folder for furter reference
 
-
-License
---------
-This project is licensed under the MIT License - see the LICENSE.md file for details
